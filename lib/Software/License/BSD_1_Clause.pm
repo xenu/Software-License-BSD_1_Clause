@@ -10,7 +10,7 @@ package Software::License::BSD_1_Clause;
 use strict;
 use warnings;
 
-our $VERSION = '0.003';
+our $VERSION = '0.004';
 
 use parent 'Software::License';
 
