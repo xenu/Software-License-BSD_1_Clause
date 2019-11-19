@@ -1,4 +1,6 @@
 {{$NEXT}}
+
+0.002     2019-11-19 04:18:25+01:00 Europe/Warsaw
   - Exclude dist.ini from the release tarball
 
 0.001     2019-11-19 04:05:50+01:00 Europe/Warsaw
