@@ -10,6 +10,8 @@ package Software::License::BSD_1_Clause;
 use strict;
 use warnings;
 
+our $VERSION = '0.003';
+
 use parent 'Software::License';
 
 sub name { 'The 1-Clause BSD License' }
