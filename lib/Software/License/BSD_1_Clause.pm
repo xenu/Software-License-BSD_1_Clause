@@ -1,4 +1,4 @@
-# Copyright (c) 2019 Tomasz Konojacki
+# Copyright (c) 2020 Tomasz Konojacki
 #
 # This is free software; you can redistribute it and/or modify it under
 # the same terms as the Perl 5 programming language system itself.
@@ -54,7 +54,7 @@ Tomasz Konojacki <me@xenu.pl>
 
 =head1 COPYRIGHT AND LICENSE
 
-Copyright (c) 2019 Tomasz Konojacki
+Copyright (c) 2020 Tomasz Konojacki
 
 This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.
