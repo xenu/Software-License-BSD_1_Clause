@@ -17,7 +17,7 @@ use parent 'Software::License';
 sub name { 'The 1-Clause BSD License' }
 sub url  { 'https://spdx.org/licenses/BSD-1-Clause.html' }
 
-sub meta_name  { 'unrestricted' }
+sub meta_name  { 'open_source' }
 sub spdx_expression  { 'BSD-1-Clause' }
 
 1;
@@ -41,6 +41,10 @@ L<Software::License>
 =item *
 
 L<https://spdx.org/licenses/BSD-1-Clause.html>
+
+=item *
+
+L<https://opensource.org/licenses/BSD-1-Clause>
 
 =back
 
